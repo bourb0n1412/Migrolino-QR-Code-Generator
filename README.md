@@ -22,11 +22,11 @@ Before you begin, ensure you have met the following requirements:
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/migrolino-qrcode-generator.git
+    git clone https://github.com/bourb0n1412/Migrolino-QR-Code-Generator.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd migrolino-qrcode-generator
+    cd Migrolino-QR-Code-Generator
     ```
 3. Install the dependencies:
     ```sh
